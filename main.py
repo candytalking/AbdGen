@@ -1,5 +1,6 @@
 """
 This file is a copyrighted under the BSD 3-clause licence, details of which can be found in the root directory.
+
 Code for
 Generating by Understanding: Neural Visual Generation with Logical Symbol Groundings
 https://arxiv.org/abs/2310.17451
