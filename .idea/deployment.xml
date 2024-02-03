@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="worker@47.97.107.213:2022" createEmptyFolders="true" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="worker@47.97.107.213:2022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/worker/code/AbdGen_Github" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
