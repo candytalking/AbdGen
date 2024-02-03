@@ -1,4 +1,4 @@
-#Code for "Generating by Understanding: Neural Visual Generation with Logical Symbol Groundings" https://arxiv.org/abs/2310.17451
+Code for "Generating by Understanding: Neural Visual Generation with Logical Symbol Groundings" https://arxiv.org/abs/2310.17451
 
 
 The program works for conducting rule learning on the Mario dataset.
